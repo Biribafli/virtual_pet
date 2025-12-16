@@ -88,7 +88,9 @@ namespace TamagotchiWindows
 
             // Путь к фоновому изображению - исправлено с "imags" на "images"
             // string imagePath = Path.Combine("images", "background.jpg");
-            string imagePath = @"G:\TamagotchiWindows  норм версия c ghjuekrjq\TamagotchiWindows\Images\background.jpg";
+             
+            string imagePath = @"C:\Users\Пользователь\Desktop\TamagotchiWindows  норм версия\TamagotchiWindows\Images\фон.jpg";
+                
             //string imagePath = Path.Combine(Application.StartupPath, "images", "background.jpg");
             // Градиентный фон как запасной вариант
             // this.BackColor = Color.FromArgb(255, 247, 175);
